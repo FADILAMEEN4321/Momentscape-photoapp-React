@@ -6,23 +6,23 @@ Welcome to Momentscape, a stunning photo-sharing app that allows users to share 
 
 ## Features
 
-1. **User Authentication** 
+1. **User Authentication** ;
 Secure user registration and JWT-based authentication for user login.
 
-2. **Profile Management** 
+2. **Profile Management** :
 Users can view and edit their profiles, upload profile pictures, and update personal information.
 
-3. **Gallery** 
+3. **Gallery** :
  A beautiful gallery section to showcase user-uploaded photographs.
 
-4. **Admin Panel** 
+4. **Admin Panel** :
 Admins have access to an admin panel where they can:
    1. View all users
    2. Edit user profiles
    3. Delete user accounts
    4. Search for users
 
-5. **Photo Upload** 
+5. **Photo Upload** :
 Users can easily upload their photographs, making them visible in the gallery for others to admire.
 
 ## Technologies Used 🛠️
