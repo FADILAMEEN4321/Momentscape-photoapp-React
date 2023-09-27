@@ -6,7 +6,7 @@ import LoginPage from "../pages/LoginPage";
 import AuthContext from "../context/AuthContext";
 
 const PrivateRoute = () => {
-    
+       
     let {user} = useContext(AuthContext)
     if (user){
     return <HomePage></HomePage>}

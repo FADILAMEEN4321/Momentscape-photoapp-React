@@ -25,7 +25,7 @@ function App() {
           <Route path="/profile" element={<PrivateProfileRoute />} /> 
           <Route path="/admin_dashboard" element={<AdminPage />} /> 
         </Routes>
-        <Footer/>
+        <Footer/>  
         </AuthProvider>
       </Router>
 
